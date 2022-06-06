@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Chris
 - 🌌  I’m interested in Starfinder
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently learning Java.
 - 🌑 I'm working on procrastinating.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/chris-basham101/)
 
